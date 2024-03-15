@@ -4,6 +4,13 @@
 #### H4
 ##### H5
 ###### H6
+``` javascript
+var myVar = "Hello, world!";
+```
+``` python
+import numpy as np
+```
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
